@@ -1,4 +1,4 @@
 ---
-Bienvenue dans votre service de nettoyage léger avec Virinex Inc .
+Service de nettoyage léger avec Virinex Inc .
 ---
 
